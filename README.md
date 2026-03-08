@@ -18,84 +18,15 @@ A modern blog website that allows users to read articles while administrators ca
 - 📱 Responsive Design – Works on desktop, tablet, and mobile devices
 - ☁️ Firebase Integration – Uses Firebase for database and hosting
 
----
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/cd3bde2d-a01a-49ef-b21c-881eb3ed69b4" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/7ae08310-c176-4604-ba21-be63412b625b" />
 
-## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Firebase Firestore / Realtime Database
-- Firebase Hosting
+
 
 ---
 
-## 📂 Project Structure
 
-```
-blog-website
-│
-├── index.html          # Main blog page
-├── admin.html          # Admin panel for managing posts
-├── edit.html           # Edit existing posts
-├── feedback.html       # User feedback page
-├── style.css           # Main styling
-├── script.js           # Blog logic and CRUD operations
-└── firebase-config.js  # Firebase configuration
-```
-
----
-
-## ⚙️ Installation / Setup
-
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/your-repository-name.git
-```
-
-2. Navigate to the project folder
-
-```
-cd your-repository-name
-```
-
-3. Configure Firebase
-
-- Create a Firebase project
-- Enable Firestore or Realtime Database
-- Add your Firebase configuration inside `firebase-config.js`
-
-4. Run locally
-
-You can open `index.html` in your browser or use a local server.
-
-Example:
-
-```
-Live Server (VS Code Extension)
-```
-
----
-
-## 🚀 Deployment
-
-This project can be deployed easily using **Firebase Hosting**.
-
-Steps:
-
-1. Install Firebase CLI
-2. Login to Firebase
-3. Initialize hosting
-4. Deploy
-
-```
-firebase deploy
-```
-
----
-
-## 📷 Preview
 
 The blog system includes:
 
