@@ -1,0 +1,13 @@
+{
+    "rules": {
+        ".read": "true",
+        ".write": "auth != null",
+        "blogs": {
+            ".indexOn": [
+                "createdAt",
+                "authorId",
+                "slug"
+            ]
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "blogs": {
+    "n4hDy7NKDbIaJkIi4RKS": {
+      "title": "Quantum Computing Breakthroughs",
+      "slug": "quantum-computing-breakthroughs",
+      "content": "Exploring the next frontier of processing power. How stable qubits are changing the landscape of cryptography and complex simulations.\\n\\n## The Qubit Revolution\\nUnlike classical bits, qubits can exist in a superposition of states...",
+      "author": "Dr. Alan Turing",
+      "category": "Hardware",
+      "tags": "quantum, computing, cryptography",
+      "featuredImage": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1000",
+      "status": "Published",
+      "createdAt": "2026-03-06T14:25:18.000Z",
+      "authorId": "admin"
+    },
+    "_45sfUC6mpwicNKpWjj7": {
+      "title": "RISC-V Architecture: The Open Source Hardware Revolution",
+      "slug": "risc-v-architecture",
+      "content": "An in-depth look at how the open-source instruction set architecture is challenging traditional proprietary chip designs.\\n\\n## Why RISC-V?\\nIt provides a free and open ISA enabling a new era of processor innovation...",
+      "author": "Jane Doe",
+      "category": "Hardware",
+      "tags": "risc-v, architecture, open-source",
+      "featuredImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1000",
+      "status": "Published",
+      "createdAt": "2026-03-06T14:25:18.000Z",
+      "authorId": "admin"
+    },
+    "rI5Gg9g-kw24dgLszLkB": {
+      "title": "SYNERGY: Bridging AI, Startups, and Secure Governance",
+      "slug": "synergy-bridging-ai-startups-secure-governance",
+      "content": "![Webinar Poster](/images/webinar-poster.jpg)\n\nReady to bridge the gap between AI, Startups, and Secure Governance?\n\nThe future isn't just coming; it's being coded, scaled, and secured right now. Join us for SYNERGY, a high-impact 3-day webinar series designed for innovators, developers, and visionaries. \n\n**Dates:** March 4–6, 2026  \n**Time:** 8:00 AM – 12:00 PM  \n**Format:** Live via Zoom (Registration is FREE!)  \n**Register:** [https://badgermint.app](https://badgermint.app)\n\n*Organized by UPICT Association Inc.*\n\n## The Game Plan\n\n![Zoom Meeting](/images/zoom-meeting.jpg)\n\n### Day 1: Scaling at the Speed of Thought\n*Focus: Industrial AI Agents and the Vibe Coding Revolution*\n\n* **The Future Work: Exploiting the Vibe Coding Revolution** - *Joshua Bascos (Senior System Developer)*\n* **From Prompt to Production: Mastering Agentic AI** - *Warly Dela Cruz (Senior Data Engineer)*\n\n### Day 2: The Lean Architect\n*Focus: Design Thinking and Scalable Solo-Founding*\n\n* **Design Thinking for Disruptors: Building Products People Actually Want** - *Nestor Feland Panopio (COO, IAM Contact Solutions)*\n* **Solo but Scalable: Architecting a One-Person Tech Powerhouse** - *Ed Casulla (CEO/CTO, Aeonsprint Solutions Inc.)*\n\n### Day 3: Fortifying E-Governance\n*Focus: Blockchain and Zero Trust Security*\n\n* **The Decentralized State: Redefining Public Trust through Blockchain-Enabled Identity** - *Tzar Umang (COO/CTO, Makerspace Innovhub)*\n* **Implementing Zero Trust and Decentralized Identity for Secure E-Governance** - *Christian Idia (CEO, Digiforce IT Services)*\n\n## Why Attend?\nWhether you're a solo founder looking to build a \"one-person powerhouse\" or a tech professional navigating the world of Agentic AI and Blockchain, this series provides the blueprint for the next era of technology. Secure your spot now!",
+      "author": "UPICT Association Inc.",
+      "category": "AI & ML",
+      "tags": "ai, startups, cybersecurity, blockchain, web3, governance",
+      "featuredImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000",
+      "status": "Published",
+      "createdAt": "2026-03-06T14:25:18.000Z",
+      "authorId": "admin"
+    }
+  },
+  "feedback": {}
+}
