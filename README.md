@@ -1,9 +1,4 @@
-# Webiste-Blog-Sakamoto
-A modern blog website with full CRUD functionality allowing users to create, read, update, and delete posts. Built with a clean UI, admin dashboard, and Firebase database for dynamic content management and hosting.
-
-
 # Blog Website with CRUD Features
-
 A modern blog website that allows users to read articles while administrators can create, update, and delete blog posts through a simple content management interface. The system is designed with a clean and responsive UI and uses Firebase for database management and hosting.
 
 ---
@@ -21,7 +16,7 @@ A modern blog website that allows users to read articles while administrators ca
 <img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/cd3bde2d-a01a-49ef-b21c-881eb3ed69b4" />
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/7ae08310-c176-4604-ba21-be63412b625b" />
 
-
+https://github.com/Kenjiroooo/Webiste-Blog-Sakamoto
 
 
 ---
